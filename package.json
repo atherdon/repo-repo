@@ -55,7 +55,7 @@
     "passport-local": "^1.0.0",
     "pug": "^2.0.0-rc.2",
     "serve-favicon": "~2.4.2",
-    "stripe": "^5.0.0",
+    "stripe": "^8.161.0",
     "stripe-webhook-middleware": "^0.2.0",
     "swig": "^1.4.2"
   },
